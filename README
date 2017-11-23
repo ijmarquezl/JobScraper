@@ -1,0 +1,8 @@
+Project to create a website that presents all the jobs found in different JobBoards online to concentrate all searches.
+
+Parameters might be different, both in the advanced search and in the board presentation.
+
+The app will crawl the boards with the corresponding username and passwd in order to retrieve the latest opportunity updates from each site.
+Later it will save the new information in a database.
+
+Another component will display the results in a dynamic website.
